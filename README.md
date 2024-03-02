@@ -10,5 +10,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter uuid streamlit uuid
 ## Run steamlit app
 ```
 streamlit run dashboard.py
-https://fanderkai-ecommerceanalysisdashboard.streamlit.app/
 ```
